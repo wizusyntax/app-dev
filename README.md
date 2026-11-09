@@ -1,42 +1,45 @@
-# My Favorite Series: [Series Name]
+# My Favorite Series: Spider-Man
 
-![Badge](https://img.shields.io/badge/Genre-[Genre]-blue)
+![Badge](https://img.shields.io/badge/Genre-Superhero-red)
 
 ## About
-**[Series Name]** is a *[genre]* series that first aired in **[year]**. It follows [short description of the story].
+**Spider-Man** is a *superhero* franchise created by **Stan Lee** and **Steve Ditko** for Marvel Comics. It follows **Peter Parker**, a teenager who gets spider powers and learns that his abilities come with big responsibilities.
 
-> "[Favorite quote from the series]"
+> "With great power comes great responsibility."
 
 ---
 
 ## Main Characters
-1. **[Character 1]** - [short description]
-2. **[Character 2]** - [short description]
-3. **[Character 3]** - [short description]
+1. **Peter Parker / Spider-Man** - a young hero who protects New York City
+2. **Mary Jane Watson** - Peter's close friend and love interest
+3. **Aunt May** - Peter's caring aunt who raised him
+4. **Green Goblin** - one of Spider-Man's most famous enemies
 
 ## Why I Like It
 - Great storyline
-- Memorable characters
+- Relatable hero
 - ~~Boring parts~~ none at all
-  - Nested point: [anything you like]
+  - Awesome web-swinging action scenes
 
 ## Quick Facts
 | Detail | Info |
 |--------|------|
-| Genre | [Genre] |
-| Seasons | [number] |
-| Year | [year] |
+| Genre | Superhero |
+| Creators | Stan Lee and Steve Ditko |
+| First Appearance | Amazing Fantasy #15 (1962) |
+| Publisher | Marvel Comics |
 
-## Episode Checklist
-- [x] Season 1
-- [ ] Season 2
+## Movie Checklist
+- [x] Spider-Man (2002)
+- [x] Spider-Man: Homecoming
+- [ ] Spider-Man: Across the Spider-Verse
 
 ## Inline Code and Code Block
-My favorite episode is `[episode title]`.
+My favorite hero is `Spider-Man`.
 
 ```python
-print("Best series ever!")
+print("Your friendly neighborhood Spider-Man!")
 ```
 
 ## Learn More
-[Visit the official page](https://www.imdb.com)
+[Visit the Marvel website](https://www.marvel.com)
